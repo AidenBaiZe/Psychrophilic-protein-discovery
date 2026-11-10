@@ -1,0 +1,20 @@
+name: gene
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python=3.11
+  - cd-hit=4.8.1
+  - seqkit=2.14.0
+  - biopython=1.88
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - tqdm
+  - jupyterlab
+  - ipykernel
+  - openpyxl=3.1
