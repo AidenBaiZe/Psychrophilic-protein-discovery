@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+~$*.xlsx
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+
+# Keep research inputs and generated outputs local.
+/dataset/
+/output/
